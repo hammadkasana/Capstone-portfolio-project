@@ -49,7 +49,7 @@ p {
 
 .name {
     text-align: end;
-    font-family: Poppin;
+    font-family: Poppins;
     font-size: 1.25rem;
     margin-right: 25px;
     padding: 0px;
@@ -85,8 +85,8 @@ p {
 }
 
 #about_para {
-    font-size: 2.5rem;
-    font-family: "poppin" Helvetica;
+    font-size: 35px;
+    font-family: Poppins, Helvetica;
 }
 
 .sec_3_container {
@@ -152,18 +152,18 @@ p {
 
 .card p {
     margin-top: 35px;
-    font-size: 1.25rem;
+    font-size: 1rem;
 }
 
 .edu {
-    font-family: Poppin helvetica sans-serif;
+    font-family: Poppins, helvetica, sans-serif;
     border-radius: 25px;
     padding: 10px;
     padding-left: 20px;
 }
 
 .skills {
-    font-family: Poppin helvetica sans-serif;
+    font-family: Poppins, helvetica, sans-serif;
     border-radius: 25px;
     padding: 10px;
     padding-left: 20px;
@@ -171,7 +171,7 @@ p {
 }
 
 .lang {
-    font-family: Poppin helvetica sans-serif;
+    font-family: Poppins;
     border-radius: 25px;
     padding: 10px;
     padding-left: 20px;
@@ -212,7 +212,7 @@ p {
     
     .name {
         text-align: center;
-        font-family: Poppin;
+        font-family: Poppins;
         font-size: 16px;
         padding: 0px;
         margin-right: 0PX;
@@ -239,8 +239,8 @@ p {
     }
 
     #about_para {
-        font-size: 25px;
-        font-family: "poppin" Helvetica;
+        font-size: 20px;
+        font-family: Poppins, Helvetica;
         text-align: center;
         margin-top: 25px;
     }
@@ -284,7 +284,7 @@ p {
     .card p {
         margin-top: 10px;
         font-size: 16px;
-        margin-top: 50px;
+        margin-top: 25px;
     }
     
 }
